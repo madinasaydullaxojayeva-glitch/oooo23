@@ -1,0 +1,41 @@
+body{
+    background-color: tomato;
+    
+}
+h1{
+ background-color: aqua;
+ color: white;
+ text-align: center;
+
+}
+.div{
+    background-color: rgb(255, 229, 143);
+    padding: 15px;
+  
+}
+.box{
+    width: 500px;
+    background-color: white;
+    border-radius: 12px;
+   text-align: center;
+      padding: 15px;
+    margin-top: 30px;
+}
+
+.box img{
+    width: 300px;
+    margin-top: auto;
+}
+
+.box{
+    width: 500px;
+    background-color: white;
+    border-radius: 12px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    
+}
+.box img{
+    width: 300px;
+}
